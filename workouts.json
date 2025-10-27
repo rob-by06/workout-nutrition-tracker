@@ -1,24 +1,3 @@
 {
-  "sessions": [
-    {
-      "id": "1d7e0d3bb9444a8fa3a6226d8d363089",
-      "name": "push ",
-      "date": "2025-09-29",
-      "created_at": "2025-09-30T06:30:09.824161",
-      "exercises": [
-        {
-          "id": "9cd54c236a8a44418d257fff46fccd14",
-          "name": "incline dumble press ",
-          "weight": 25.0,
-          "reps": 10
-        },
-        {
-          "id": "5627fb77582d40a9a49ed08baa3b2783",
-          "name": "seated lateral raises ",
-          "weight": 10.0,
-          "reps": 12
-        }
-      ]
-    }
-  ]
+  "sessions": []
 }
